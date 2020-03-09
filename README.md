@@ -1,2 +1,3 @@
-# CollabUnitProject
-Big project which is collaboration based with work shared throughout the group
+# ProjectMock
+
+Developed with Unreal Engine 4
